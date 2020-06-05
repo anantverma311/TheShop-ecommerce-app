@@ -1,6 +1,6 @@
 # Shop_App
 
-A new Flutter project.
+This repo is an e-commerce application built on flutter and dart, I added few basic functionalities to this app like viewing products , adding them to the cart,  placing order and much more . Basic authentication is also added to this app using firebase such that to view products users have to sign-in using valid email-id 
 
 ## Getting Started
 
